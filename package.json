@@ -1,0 +1,25 @@
+{
+  "name": "@whcg/whcg-section-textlong-chart-input",
+  "version": "1.2.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.es6.js",
+  "scripts": {
+    "build": "rollup -c"
+ },
+ "files": [
+    "dist",
+    "theme"
+ ],
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whcgx/whcg-section-textlong-chart-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whcgx/whcg-section-textlong-chart-input/issues"
+  },
+  "homepage": "https://github.com/whcgx/whcg-section-textlong-chart-input#readme"
+}
